@@ -2,7 +2,7 @@
 
 ## 📊 BI Analyst & Product Enthusiast
 
-Hey there! 👋 I'm Ilias, a passionate Electrical and Computer Engineer from the University of Patras, diving deep into the fascinating world of data. Here's a snapshot of what I do:
+Hey there! 👋 I'm Ilias, a passionate analyst who wants to combine data and automation in the real world
 
 ### 🛠 Professional Experience
 - **BI Analyst @ Blueground 🏙️ (Athens & Vienna) 2021-** 
@@ -37,4 +37,4 @@ Hey there! 👋 I'm Ilias, a passionate Electrical and Computer Engineer from th
 
 ---
 
-🌍 Fluent in Greek and English. Eager to collaborate on projects that push the boundaries of data science and analytics. 🔍 Explore my repos and let's connect for exciting opportunities!
+🌍 Fluent in English and Greek. Eager to collaborate on projects that push the boundaries of data science and analytics. 🔍 Explore my repos, and let's connect for exciting opportunities!
