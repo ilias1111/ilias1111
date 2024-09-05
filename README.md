@@ -9,7 +9,7 @@ Hey there! 👋 I'm Ilias, a passionate analyst who wants to combine data and au
   - 🛠️ Maintain source-available dbt packages for various data warehouses and data lakes (Snowflake, Redshift, Databricks, PostgreSQL, Spark, BigQuery).
   - 📊 Work on internal data models, used in the product.
   - 🐳 Perform DataOps tasks (Docker, GitHub Actions, Spark deployments, etc.).
-- **BI Analyst @ Blueground 🏙️ (Athens & Vienna) 2021-24 
+- **BI Analyst @ Blueground 🏙️ (Athens & Vienna) 2021-24**
   - 📈 Analytics & Data Warehousing.
   - 🐍 Python Automation.
   - 📊 Metabase kind of expert 
